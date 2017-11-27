@@ -21,3 +21,10 @@ Quickly deploy Node.js to the cloud
 surge
 1. npm install -g surge
 2. surge
+
+
+
+----------------------------------------------------
+
+Automation:
+npm start -s
